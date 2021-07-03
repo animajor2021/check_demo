@@ -1,6 +1,5 @@
 {
-    "ip": "121.43.173.140",
-    "port": "2022",
+    "path": "http://121.43.173.140:2022/get/task",
     "interval_min": 10,
     "interval_max": 60
 }
