@@ -1,5 +1,5 @@
 {
-    "version": "1",
+    "version": "2",
     "register_url": "http://0.0.0.0:2022/register",
     "get_task_url": "http://0.0.0.0:2022/get_task",
     "put_task_result_url": "http://0.0.0.0:2022/put_task_result",
