@@ -1,5 +1,5 @@
 {
-    "path": "http://121.43.173.140:2022/get/task/3",
+    "path": "http://121.43.173.140:2022/get/task",
     "config_interval_min": 10,
     "config_interval_max": 60,
     "task_interval_min": 1,
