@@ -1,5 +1,7 @@
 {
-    "path": "http://121.43.173.140:2022/get/task",
+    "register_url": "http://121.43.173.140:2022/register",
+    "get_task_url": "http://121.43.173.140:2022/get_task",
+    "put_task_result_url": "http://121.43.173.140:2022/put_task_result",
     "config_interval_min": 10,
     "config_interval_max": 60,
     "task_interval_min": 1,
