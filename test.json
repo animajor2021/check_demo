@@ -1,5 +1,5 @@
 {
-    "version": "202107041332",
+    "version": "20210704134",
     "register_url": "http://121.43.173.140:2022/register",
     "get_task_url": "http://121.43.173.140:2022/get_task",
     "put_task_result_url": "http://121.43.173.140:2022/put_task_result",
