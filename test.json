@@ -1,10 +1,10 @@
 {
-    "version": "202107132220",
+    "version": "202107132221",
     "register_url": "http://121.43.173.140:2022/register",
     "get_task_url": "http://121.43.173.140:2022/get_task",
     "put_task_result_url": "http://121.43.173.140:2022/put_task_result",
     "config_interval_min": 60,
     "config_interval_max": 120,
-    "task_interval_min": 10,
-    "task_interval_max": 20
+    "task_interval_min": 120,
+    "task_interval_max": 600
 }
